@@ -1,0 +1,1 @@
+import{dK as t}from"./index.b74cf1bc.js";function r(e){return t.get({url:"/system/sysArea/selectSysAreaWithPage",params:e})}function a(e){return t.get({url:"/system/sysArea/selectSysAreaWithTree",params:e})}function n(e){return t.get({url:"/system/sysArea/selectSysAreaWithParentCode",params:e})}export{a,r as f,n as s};
