@@ -1,0 +1,1 @@
+import{ay as e,a,o as t,h as _}from"./index.67a988db.js";const o=a({}),s={class:"m-10 auth-page"};function n(r,c,u,p,d,f){return t(),_("div",s,"Super \u89D2\u8272\u53EF\u89C1")}var l=e(o,[["render",n],["__scopeId","data-v-4d5e8bf2"]]);export{l as default};
